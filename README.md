@@ -2,6 +2,7 @@
 Mask-Guided Residual Learning Network for Joint Single-Image Shadow Detection and Removal
 <center><img src="figs/arch.png" width="512"></center>
 MGRLN-Net is a deep learning architecture for joint single-image shadow detection and removal. If you find this project useful for your research, please cite:
+
 ```
 @InProceedings{Jie_2022_ACCV,
     author    = {Jie, Leiping and Zhang, Hui},
